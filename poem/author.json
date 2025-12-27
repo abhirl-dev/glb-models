@@ -34,5 +34,29 @@
         "name": "Edgar Allan Poe",
         "birthYear": 1809,
         "birthPlace": "Boston, Massachusetts, USA"
+    },
+    {
+        "id": 7,
+        "name": "Sylvia Plath",
+        "birthYear": 1932,
+        "birthPlace": "Boston, Massachusetts, USA"
+    },
+    {
+        "id": 8,
+        "name": "Pablo Neruda",
+        "birthYear": 1904,
+        "birthPlace": "Parral, Chile"
+    },
+    {
+        "id": 9,
+        "name": "William Wordsworth",
+        "birthYear": 1770,
+        "birthPlace": "Cockermouth, England"
+    },
+    {
+        "id": 10,
+        "name": "John Keats",
+        "birthYear": 1795,
+        "birthPlace": "London, England"
     }
 ]
