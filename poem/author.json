@@ -58,5 +58,17 @@
         "name": "John Keats",
         "birthYear": 1795,
         "birthPlace": "London, England"
+    },
+    {
+        "id": 11,
+        "name": "Maya Angelou",
+        "birthYear": 1928,
+        "birthPlace": "St. Louis, Missouri, USA"
+    },
+    {
+        "id": 12,
+        "name": "T.S. Eliot",
+        "birthYear": 1888,
+        "birthPlace": "St. Louis, Missouri, USA"
     }
 ]
