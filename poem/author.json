@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "William Shakespeare",
+        "birthYear": 1564,
+        "birthPlace": "Stratford-upon-Avon, England"
+    },
+    {
+        "id": 2,
+        "name": "Emily Dickinson",
+        "birthYear": 1830,
+        "birthPlace": "Amherst, Massachusetts, USA"
+    },
+    {
+        "id": 3,
+        "name": "Robert Frost",
+        "birthYear": 1874,
+        "birthPlace": "San Francisco, California, USA"
+    },
+    {
+        "id": 4,
+        "name": "Matsuo Bashō",
+        "birthYear": 1644,
+        "birthPlace": "Ueno, Iga Province, Japan"
+    },
+    {
+        "id": 5,
+        "name": "Langston Hughes",
+        "birthYear": 1902,
+        "birthPlace": "Joplin, Missouri, USA"
+    },
+    {
+        "id": 6,
+        "name": "Edgar Allan Poe",
+        "birthYear": 1809,
+        "birthPlace": "Boston, Massachusetts, USA"
+    }
+]
